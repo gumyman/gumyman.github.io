@@ -21,12 +21,7 @@ const default_config = {
         {
           name: "media/rrss",
           links: [
-            {
-              name: "mastodon",
-              url: "https://mastodon.social",
-              icon: "brand-mastodon",
-              icon_color: "#a6da95",
-            },
+          
             {
               name: "reddit",
               url: "https://www.reddit.com/",
@@ -63,12 +58,6 @@ const default_config = {
               icon_color: "#f5a97f",
             },
             {
-              name: "vault",
-              url: "https://vault.bitwarden.com",
-              icon: "lock",
-              icon_color: "#ed8796",
-            },
-            {
               name: "drive",
               url: "https://drive.proton.me",
               icon: "cloud",
@@ -91,16 +80,10 @@ const default_config = {
           name: "piracy",
           links: [
             {
-              name: "fmhy",
-              url: "https://fmhy.net/",
+              name: "aniwave",
+              url: "https://aniwave.to/",
               icon: "barrier-block",
               icon_color: "#a6da95",
-            },
-            {
-              name: "r/piracy",
-              url: "https://www.reddit.com/r/Piracy/",
-              icon: "skull",
-              icon_color: "#f5a97f",
             },
           ],
         },
