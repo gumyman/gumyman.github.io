@@ -71,7 +71,7 @@ const default_config = {
             {
               name: "mymfs",
               url: "https://mfriends.myschoolapp.com/",
-              icon: "brand-blackbaud",
+              icon: "books",
               icon_color: "#a6da95",
             },
           ],
