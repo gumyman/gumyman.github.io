@@ -66,12 +66,12 @@ const default_config = {
           ],
         },
         {
-          name: "work",
+          name: "school",
           links: [
             {
-              name: "linkedin",
-              url: "https://www.linkedin.com/",
-              icon: "brand-linkedin",
+              name: "mymfs",
+              url: "https://mfriends.myschoolapp.com/",
+              icon: "brand-blackbaud",
               icon_color: "#a6da95",
             },
           ],
