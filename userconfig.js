@@ -47,19 +47,19 @@ const default_config = {
           links: [
             {
               name: "mail",
-              url: "https://mail.proton.me",
+              url: "https://mail.google.com",
               icon: "brand-campaignmonitor",
               icon_color: "#a6da95",
             },
             {
               name: "calendar",
-              url: "https://calendar.proton.me",
+              url: "https://calendar.google.com",
               icon: "calendar-filled",
               icon_color: "#f5a97f",
             },
             {
               name: "drive",
-              url: "https://drive.proton.me",
+              url: "https://drive.google.com",
               icon: "cloud",
               icon_color: "#8aadf4",
             },
