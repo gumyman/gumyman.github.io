@@ -80,8 +80,8 @@ const default_config = {
           name: "piracy",
           links: [
             {
-              name: "aniwave",
-              url: "https://aniwave.to/",
+              name: "anime",
+              url: "https://9animetv.to/",
               icon: "barrier-block",
               icon_color: "#a6da95",
             },
